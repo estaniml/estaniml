@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @estaniml
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development with React!
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React , Next projects! ...
 - 📫 How to reach me ...
 
 <!---
